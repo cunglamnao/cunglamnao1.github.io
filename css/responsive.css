@@ -6,6 +6,9 @@
         display: none;
     }
 
+    .nav__bar {
+        display: block!important;
+    }
     }
 
 
